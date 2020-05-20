@@ -11,5 +11,7 @@
 | [eTeatar](https://github.com/FITCommunity/eTeatar) | [Adnan Čutura](https://github.com/AdnanIT) & [Adi Šoše](https://github.com/Adi-Sose) |
 | [Watchables](https://github.com/FITCommunity/Watchables) | [Samir Habota](https://github.com/SamirHabota) |
 | [eStudentRestaurant](https://github.com/FITCommunity/eStudentRestaurant) | [Lejla Špago](https://github.com/spagolejla) |
+| [eRestourant](https://github.com/FITCommunity/eRestaurant-Desktop-App) | [Mujo Živojević](https://github.com/mujozivojevic) |
+| [BookDiary](https://github.com/FITCommunity/rs2-seminarski) | [Nisvet Mujkić](https://github.com/nisvet-mujkic) |
 
 

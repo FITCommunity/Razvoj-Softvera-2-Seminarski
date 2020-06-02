@@ -2,8 +2,7 @@
 
 [<img src="https://discordapp.com/api/guilds/440055845552914433/widget.png" align="center">](https://discord.gg/MFzeztS)
 
-
-___
+![fit-logo](.assets/fit-logo.jpg)
 
 * 2016  
     * [PeP](https://github.com/FITCommunity/RS2-Seminarski-PeP)  

@@ -54,6 +54,8 @@
    * [Arman Ossi Loko](https://github.com/TheDoomKing)
 * [eFastFood](https://github.com/FITCommunity/RS2-Seminarski-eFastFood)
    * [Emir Lemeš](https://github.com/emirlemes)
+* [CarHireRC](https://github.com/FITCommunity/RS2-Seminarski-CarHireRC)
+   * [Edin Smajlagić](https://github.com/edinsmajlagic)
 
 ## 2020  
 * [eVotingSystem](https://github.com/FITCommunity/eVotingSystem)  

@@ -5,6 +5,18 @@
 ![fit-logo](.assets/fit-logo.jpg)
 
 ## 2020  
+* [Eventi](https://github.com/FITCommunityArchive/RS2-Seminarski-Eventi)
+   * [Azra Bećirević](https://github.com/AzraBecirevic)
+* [RentSite](https://github.com/FITCommunityArchive/RS2-Seminarski-RentSite)
+   * [Merima Ćeranić](https://github.com/merima98)
+* [Online-Gym](https://github.com/FITCommunityArchive/RS2-Seminarski-Online-Gym)
+   * [Melisa Smajović](https://github.com/MelisaSmajovic)
+* [MoviePick](https://github.com/FITCommunityArchive/RS2-Seminarski-MoviePick)
+   * [Ajdin Ćatić](https://github.com/ajdincatic)
+* [eBus](https://github.com/FITCommunityArchive/RS2-Seminarski-eBus)
+   * [Tarik Šuta](https://github.com/tariksuta)
+* [RentACar](https://github.com/FITCommunityArchive/RS2-Seminarski-RentACar)
+   * [Amel Maslo](https://github.com/amelmaslo)
 * [eVehicleDealership](https://github.com/FITCommunityArchive/RS2-Seminarski-eVehicleDealership)
    * [Emin Hajdarević](https://github.com/eminleet)
 * [eRestaurant](https://github.com/FITCommunityArchive/eRestaurant-Desktop-App)  

@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Verzija bez foldera
 if [ -e Seminarski/$1.md ]; then
   echo "Folder Seminarski/$1.md već postoji!"
 else
